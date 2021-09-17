@@ -3,18 +3,23 @@
 Italian keyboard layout for Windows, extended for developers.
 
 No shifts:
+
 ![normal](images/normal.jpg?raw=true "normal")
 
 With `Shift`:
+
 ![shift](images/shift.jpg?raw=true "shift")
 
 With `Alt Gr`:
+
 ![altgr](images/altgr.jpg?raw=true "altgr")
 
 With `Caps lock`
+
 ![caps](images/caps.jpg?raw=true "caps")
 
 With `Caps lock` and `Shift`
+
 ![shift-caps](images/shift-caps.jpg?raw=true "shift-caps")
 
 # Installation
