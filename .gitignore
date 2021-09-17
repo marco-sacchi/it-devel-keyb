@@ -1,0 +1,7 @@
+*.exe
+*.msi
+*.zip
+*.bat
+
+build
+build/**
